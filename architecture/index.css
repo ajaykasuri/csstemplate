@@ -1,0 +1,219 @@
+ 
+.nvbr a{
+    
+ text-decoration: none;
+  color: black;
+   /* text-align: left; */
+   padding: 14px 16px;
+   /* float: right; */
+  
+}
+.nvbr{
+    padding-top: 0px;
+    position: fixed;
+    overflow: hidden;
+    background-color: white;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ width: 1200px;
+ padding-top: 0px;
+    
+}
+
+
+.nvbr a.active{
+    background-color: red;
+    color: blue;
+
+}
+#m
+{
+    display: inline-block;
+    width: 900px;
+
+    
+}
+#n{
+      
+}
+#cc
+{
+    margin-left: 900px;
+}
+#path
+{
+
+left: 30px;
+}
+#path
+{
+    
+    bottom: 90px;
+    left: 400px;
+}
+#aj{
+    background-color: black;
+color: white;
+ padding: 20px;
+ opacity: 0.7;
+ width: 50px;
+ position: absolute;
+    top: 200px;
+    left: 500px;
+}
+#ja
+{
+    color: white;
+    background-color: black;
+    opacity: 0.6;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+}
+ #abc
+ {
+    padding: 30px;
+ }
+ #aa
+ {
+display: inline-block;
+padding: 20px;
+ 
+ }
+ #bb
+ {
+display: inline-block;
+padding: 20px;
+ 
+ }
+ #ccc
+ {
+display: inline-block;
+padding: 20px;
+ 
+ }
+ #dd
+ {
+display: inline-block;
+padding: 20px;
+ 
+ }
+ #ee
+ {
+display: inline-block;
+padding: 20px;
+ }
+ #ff
+ {
+display: inline-block;
+padding: 20px;
+ }
+ #gg
+ {
+display: inline-block;
+padding: 20px;
+}
+#ironman
+ {
+display: inline-block;
+padding: 20px;
+}
+#cap
+ {
+display: inline-block;
+padding: 20px;
+}
+#natasha
+ {
+display: inline-block;
+padding: 20px;
+}
+#thor
+ {
+display: inline-block;
+padding: 20px;
+}
+#p
+{
+    display: inline-block;
+    height: 20px;
+    width: 200px;
+}
+h4{
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+#ss
+{
+    padding: 10px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+#oo
+{
+position: absolute;
+top: 800px;
+background-color: black;
+color: white;
+}
+
+#nn
+{
+position: absolute;
+top: 1100px;
+background-color: black;
+color: white;
+}
+ 
+#mm
+{
+position: absolute;
+top: 1100px;
+background-color: black;
+color: white;
+}
+#ll
+{
+position: absolute;
+top: 1100px;
+background-color: black;
+color: white;
+}
+#kk
+{
+position: absolute;
+top: 1100px;
+background-color: black;
+color: white;
+}
+#jj
+{
+position: absolute;
+top: 1100px;
+background-color: black;
+color: white;
+}
+#ii
+{
+position: absolute;
+top: 800px;
+background-color: black;
+color: white;
+}
+#jj
+{
+position: absolute;
+top: 800px;
+background-color: black;
+color: white;
+}
+#qq
+{
+position: absolute;
+top: 800px;
+background-color: black;
+color: white;
+}
+ 
