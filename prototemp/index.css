@@ -1,0 +1,423 @@
+  #pro
+  {
+     
+    top: 0px;
+     
+  }
+
+  #anc a{
+    text-decoration: none;
+    
+    
+  }
+  #anc a:link{
+    color: black;
+  }
+  #title:hover{
+    background-color: aqua;
+
+  }
+  #about:hover{
+    background-color: aqua;
+
+  }
+  #contact:hover{
+    background-color: aqua;
+
+  }
+  /* a:active{
+    color: yellow;
+  } */
+  #title
+  {
+    padding: 10px;
+ 
+  }
+  #about
+  {
+    padding: 10px;
+  }
+   
+  #contact
+  {
+    padding: 10px;
+  }
+   .left
+   {
+    width:200px;  
+    background-color: white;
+    height:100vh;
+  
+    margin-left: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+    position: fixed;
+   }
+   .container
+   {
+    display: flex;
+   }
+   #flo  {
+
+   display: flex;
+     
+   width: 800px;
+   }
+   #flo a{
+    text-decoration: none;
+    padding: 20px;
+    background-color: white;
+    margin: 1px;
+   }
+   #all :hover
+   {
+background-color: aqua;
+color: black;
+   }
+   #desgin :hover
+   {
+background-color: aqua;
+   }
+   #photo :hover
+   {
+background-color: aqua;
+   }
+   #art :hover
+   {
+background-color: aqua;
+   }
+   #flo a:link{
+    color: black;
+   }
+   #all a:hover{
+ 
+opacity: 0.1;
+ color: solid black;
+   }
+   body
+   {
+    background-color: aquamarine;
+   }
+    .right
+    {
+        margin-left: 250px;
+        box-sizing: border-box;
+    }
+    hr{
+      margin-top: 50px;
+      height: 5px;
+       background-color:bisque;
+       width: 100%;
+    }
+    .img
+    {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .img div{
+      width: 250px;
+      margin: 30px;
+    }
+    #nbr a{
+      color: black;
+      padding: 10px;
+      text-decoration: none;
+      
+    }
+    #nbr a:hover{
+      background-color: black;
+      color: white;
+    }
+    #img2
+    {
+      margin-top: 30px;
+     
+    }
+     #img2 img{
+      margin: 10px;
+     }
+     #ph
+     {
+      width: 90%;
+    background-color: thistle;
+    text-align: right;
+    
+    
+     }
+     
+     #skill
+     {
+      width: 85%;
+      background-color: gray;
+     }
+     #wb
+     {
+      width: 90%;
+      background-color: thistle;
+      text-align: right;
+     }
+     #skill2
+     {
+      width: 75%;
+      background-color: gray;
+     }
+     #ps
+     {
+      width: 90%;
+      background-color: thistle;
+      text-align: right;
+     }
+     #skill3
+     {
+      width: 70%;
+      background-color: gray;
+     }
+     #dow
+     {
+      color: white;
+      background-color: thistle;
+      width: 180px;
+      height: 40px;
+      text-align: center;
+     }
+     #im:hover
+     {
+      opacity: 0.4;
+     }
+     #dow:hover
+     {
+      background-color: gray;
+      color: black;
+     }
+     .box
+     {
+      display: flex;  
+      gap: 30px;
+      
+       }
+      
+      
+     
+     
+     #box1 div{
+      padding: 20px;
+      border: 1px solid black;
+      width: 250px;
+      text-align: center;
+      background-color: aliceblue;
+     }
+     #box2 div{
+      padding: 20px;
+      border: 1px solid black;
+      width: 250px;
+      text-align: center;
+      background-color: aliceblue;
+     }
+     #box3 div{
+      padding: 20px;
+      border: 1px solid black;
+      width: 250px;
+      text-align: center;
+      background-color: aliceblue;
+     }
+     #b1
+     {
+       background-color: black;
+      color: white;
+      text-align: center;
+       padding: 30px;
+      height: 50px;
+     }
+     #b2
+     {
+      background-color: black;
+      color: white;
+      height: 50px;
+      text-align: center;
+      padding: 30px;
+       
+     }
+     #b3
+     {
+      background-color: black;
+      color: white;
+      height: 50px;
+      text-align: center;
+      padding: 30px;
+     }
+      #su
+      {
+        border: 1px solid black;
+        height: 80px;
+      padding: 20px;
+        text-align: center;
+        background-color: aliceblue;
+        
+      }
+      #si
+      {
+        margin-top: 30px;
+        background-color: black;
+        height: 40px;
+        width: 80px;
+        color: white;
+        margin-left: 70px;
+        padding-top: 10px;
+      }
+      #op1
+      {
+
+        opacity: 0.6;
+      }
+      #op2
+      {
+
+        opacity: 0.4;
+      }
+      #op3
+      {
+
+        opacity: 0.6;
+      }
+      #op2:hover
+      {
+        opacity: 0.6;
+      }
+      #op1:hover
+      {
+        opacity: 1;
+      }
+      #op3:hover
+      {
+        opacity: 1;
+      }
+      #si:hover
+      {
+        opacity: 1;
+      }
+       .me
+       {
+        background-color: gray;
+        
+   width: 100%;
+       }
+     .me h2{
+      font-family: monospace;
+     }
+     #email
+     {
+      padding: 10px;
+      width: 280px;
+      background-color: black;
+      color: white;
+      border: 1px solid black;
+      opacity: 0.5;
+      text-align: center;
+      
+     }
+     #loc
+     {
+      padding: 10px;
+      width: 280px;
+      background-color:rgb(100,100,100);
+      color: white;
+      text-align: center;
+     }
+     #mbl
+     {
+      padding: 10px;
+      width: 280px;
+      background-color: black;
+      color: white;
+      opacity: 0.5;
+      text-align: center;
+     }
+     #con
+     {
+      display: flex;
+       margin-left: 20px;
+       }
+       #line
+       {
+        margin-top: 40px;
+        border-bottom: 1px solid white;
+        
+       }
+       #name
+       {
+        width: 90%;
+        height: 40px;
+       }
+       #sm
+       {
+        height: 50px;
+        width: 150px;
+        background-color: black;
+        color: white;
+        margin-bottom: 20px;
+       }
+       #sm:hover{
+        background-color: bisque;
+        color: black;
+       }
+       #mess
+       {
+        margin-top: 30px;
+       }
+       .footer
+       {
+        background-color:aqua;
+        margin-top: 0px;
+       }
+     #ws
+     {
+      display: inline-block;
+     }
+     #lin
+     {
+      border-bottom: 1px solid white;
+      margin-bottom: 10px;
+     }
+     #gd
+     {
+      display: inline-block;
+     }
+     .footer{
+      /* display: flex; */
+      
+     }
+     #foot
+     {
+      width: 200px;
+      display: inline-block;
+      margin-left: 30px;
+     }
+     #bp
+     {
+      display: inline-block;
+      margin-left: 30px;
+     }
+     #pt
+     {
+      display: inline-block;
+      margin-left: 30px;
+      width: 400px;
+     }
+     #pt1 div{
+      display: inline-block;
+      padding: 10px;
+      background-color: gray;
+      margin: 5px;
+     }
+     #end
+     {
+      background-color: black;
+      height: 80px;
+      color: white;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      align-content: center;
+      line-height: 70px;
+     }
+     
